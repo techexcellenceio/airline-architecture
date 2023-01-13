@@ -156,30 +156,30 @@ source files in files folder to play with all schema (In addition, I preferred t
 The sales management bounded context is responsible for managing the sales process for air travel.
 This includes tasks such as handling customer inquiries and booking requests, managing inventory and availability of flights. The bounded context may also include functionality for managing customer relationships, tracking sales performance and metrics, and generating reports and analytics related to sales activity.
 
-<a href="https://raw.githubusercontent.com/trmalek/airlineReservationSystem/main/img/ars-process-level-finish-2.jpg" target="_blank">Show picture
+<a href="https://github.com/trmalek/airlineReservationSystem/blob/main/img/airline-reservation-system%20scenario%20special%20offer%20plan%20elaborated%20by%20Sales%20management_2023-01-08.png" target="_blank">Show picture
 </a>
 ![](img/airline-reservation-system%20scenario%20special%20offer%20plan%20elaborated%20by%20Sales%20management_2023-01-08.png)
 
-<a href="https://raw.githubusercontent.com/trmalek/airlineReservationSystem/main/img/ars-process-level-finish-2.jpg" target="_blank">Show picture
+<a href="https://github.com/trmalek/airlineReservationSystem/blob/main/img/airline-reservation-system%20scenario%20gift%20added%20by%20Sales%20management_2023-01-08.png" target="_blank">Show picture
 </a>
 ![](img/airline-reservation-system%20scenario%20gift%20added%20by%20Sales%20management_2023-01-08.png)
 
 ###### Ticket reservation
 
-<a href="https://raw.githubusercontent.com/trmalek/airlineReservationSystem/main/img/ars-process-level-finish-2.jpg" target="_blank">Show picture
+<a href="https://github.com/trmalek/airlineReservationSystem/blob/main/img/Airline%20Reservation%20System%20scenario%20ticket%20reservation_2023-01-04.png" target="_blank">Show picture
 </a>
 ![](img/Airline%20Reservation%20System%20scenario%20ticket%20reservation_2023-01-04.png)
-<a href="https://raw.githubusercontent.com/trmalek/airlineReservationSystem/main/img/ars-process-level-finish-2.jpg" target="_blank">Show picture
-</a>
 
 ###### Ticket purchasing
+<a href="https://github.com/trmalek/airlineReservationSystem/blob/main/img/Airline%20Reservation%20System%20scenario%20ticket%20purchasing%20(with%20and%20without%20blocked%20ticket)_2023-01-04.png" target="_blank">Show picture
+</a>
 
 ![](img/Airline%20Reservation%20System%20scenario%20ticket%20purchasing%20(with%20and%20without%20blocked%20ticket)_2023-01-04.png)
 
-<a href="https://raw.githubusercontent.com/trmalek/airlineReservationSystem/main/img/ars-process-level-finish-2.jpg" target="_blank">Show picture
-</a>
 
 ###### Ticket rescheduling
+<a href="https://github.com/trmalek/airlineReservationSystem/blob/main/img/airline-reservation-system%20scenario%20ticket%20rescheduling_2023-01-11.png" target="_blank">Show picture
+</a>
 
 ![](img/airline-reservation-system%20scenario%20ticket%20rescheduling_2023-01-11.png)
 
@@ -247,7 +247,7 @@ That being said, there are also situations where a document database might be a 
 
 ### Solution Architecture Microservices Diagram
 
-<a href="https://raw.githubusercontent.com/trmalek/airlineReservationSystem/main/img/ars-microservices-diagram.jpeg" target="_blank">Show picture
+<a href="https://github.com/trmalek/airlineReservationSystem/blob/main/img/ars-microservices-diagram.jpeg" target="_blank">Show picture
 </a>
 
 ![](img/ars-microservices-diagram.jpeg)
